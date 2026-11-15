@@ -18,6 +18,6 @@
 
 ## Featured projects
 
-- [expense-tracker-pwa](https://github.com/sanket-parte/expense-tracker-pwa): React + FastAPI + PostgreSQL PWA, Dockerized with CI. [Live demo](https://expense-flow.duckdns.org)
+- [expense-tracker-pwa](https://github.com/sanket-parte/expense-tracker-pwa): React + FastAPI + PostgreSQL PWA, Dockerized with CI.
 - [personal-expense-tracker](https://github.com/sanket-parte/personal-expense-tracker): local-first expense app built with React Native, Expo and TypeScript.
 - [habit-tracker](https://github.com/sanket-parte/habit-tracker): Dockerized frontend/backend habit tracker with CI/CD.
